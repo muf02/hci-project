@@ -1,0 +1,4 @@
+#Wed Jan 12 21:55:19 PKT 2022
+base.0=/Users/usman/Desktop/hci_project/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
